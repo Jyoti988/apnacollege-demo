@@ -1,2 +1,2 @@
 # apnacollege-demo
-author - jyoti
+author - jyoti yadav
