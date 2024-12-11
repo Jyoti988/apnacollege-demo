@@ -1,2 +1,1 @@
-# apnacollege-demo
-author - jyoti yadav
+# my-app-
